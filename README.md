@@ -33,15 +33,13 @@ npm install
 
 ## My approach to answering Q1
 
-I went with using Javascript, with using the file system module to find, read and write files. The module helps with handling successful and failed requests.
+I went with using Javascript, benefitting from the file system module. Which helps find, read, and write files. The module helps with handling successful and failed requests.
 
 ## My approach to answering Q2
 
-I decided to go with Nodejs with express to created my local server, run on server.js and app.js to connect my application. I used dependencies such as body-parser and cors to support with requests and manipulation of data.
+I decided to go with Nodejs with express to created my local server, run on server.js, and app.js to connect my application. I used dependencies such as body-parser and cors to support requests and manipulation of data.
 
-Application runs on localhost:5000
-
-routes / access 
+The application runs on localhost:5000
 
 ## Get all conference
 ```
