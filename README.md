@@ -1,3 +1,5 @@
+# MMT Test
+
 ## Prerequisites
 
 Make sure that you have [Nodejs](https://nodejs.org/en/download/) on your machine.
@@ -41,7 +43,7 @@ Application runs on localhost:5000
 
 routes / access 
 
-# Get all conference
+## Get all conference
 ```
 localhost:5000/api
 ```
@@ -64,11 +66,12 @@ Failed :
 }
 ```
 
-# Create a conference 
+## Create a conference 
 ```
 localhost:5000/api
 ```
 **Response for - Post Request**
+
 Success : 
 ```
 200 - {
@@ -85,11 +88,12 @@ Failed :
 }
 ```
 
-# Add attendee to a conference 
+## Add attendee to a conference 
 ```
 localhost:5000/api/:room
 ```
 **Response for - Post Request**
+
 Success : 
 ```
 200 - {
