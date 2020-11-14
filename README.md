@@ -47,7 +47,8 @@ localhost:5000/api
 ```
 **Response for - Get Request**
 
-Success : ```
+Success : 
+```
 200 - {
     status: 
     message:
@@ -55,7 +56,8 @@ Success : ```
 }
 ```
 
-Failed : ```
+Failed : 
+```
 500 - {
     status: 
     message:
@@ -67,14 +69,16 @@ Failed : ```
 localhost:5000/api
 ```
 **Response for - Post Request**
-Success : ```
+Success : 
+```
 200 - {
     status: 
     message:
 }
 ```
 
-Failed : ```
+Failed : 
+```
 500 - {
     status: 
     message:
@@ -86,14 +90,16 @@ Failed : ```
 localhost:5000/api/:room
 ```
 **Response for - Post Request**
-Success : ```
+Success : 
+```
 200 - {
     status: 
     message:
 }
 ```
 
-Failed : ```
+Failed :
+```
 500 - {
     status: 
     message:
